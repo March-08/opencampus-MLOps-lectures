@@ -1,0 +1,58 @@
+{
+    "os": "macOS-13.4.1-arm64-arm-64bit",
+    "python": "3.8.18",
+    "heartbeatAt": "2024-02-15T20:36:50.881712",
+    "startedAt": "2024-02-15T20:36:50.193924",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_file",
+        "mlops-worklow/example.txt",
+        "--artifact_name",
+        "example.txt",
+        "--artifact_type",
+        "data",
+        "--artifact_description",
+        "a random example"
+    ],
+    "state": "running",
+    "program": "mlops-worklow/w&b_exercise.py",
+    "codePathLocal": "mlops-worklow/w&b_exercise.py",
+    "codePath": "mlops-worklow/w&b_exercise.py",
+    "git": {
+        "remote": "https://github.com/March-08/opencampus-MLOps-lectures.git",
+        "commit": "b59a703e36df519ab90022d7ecd70fe9251b89c4"
+    },
+    "email": null,
+    "root": "/Users/marcellopoliti/Documents/Coding/Lectures/opencampus-MLOps-lectures",
+    "host": "Marcellos-MBP.homenet.telecomitalia.it",
+    "username": "marcellopoliti",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/opencampus/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 702,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 702,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 458.1844024658203
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
