@@ -1,0 +1,58 @@
+{
+    "os": "macOS-13.4.1-arm64-arm-64bit",
+    "python": "3.12.1",
+    "heartbeatAt": "2024-02-16T08:13:50.162209",
+    "startedAt": "2024-02-16T08:13:49.510416",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://gist.githubusercontent.com/netj/8836201/raw/6f9306ad21398ea43cba4f7d537619d0e07d5ae3/iris.csv",
+        "--artifact_name",
+        "iris",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "iris dataset csv"
+    ],
+    "state": "running",
+    "program": "/Users/marcellopoliti/Documents/Coding/Lectures/opencampus-MLOps-lectures/mlflow_exercise/download_data.py",
+    "codePathLocal": "download_data.py",
+    "codePath": "mlflow_exercise/download_data.py",
+    "git": {
+        "remote": "https://github.com/March-08/opencampus-MLOps-lectures.git",
+        "commit": "b0c66ff05c4014f1e3b81027245478e497453660"
+    },
+    "email": null,
+    "root": "/Users/marcellopoliti/Documents/Coding/Lectures/opencampus-MLOps-lectures",
+    "host": "Marcellos-MBP.homenet.telecomitalia.it",
+    "username": "marcellopoliti",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/mlflow-8d73b518752939f47052be9aacc8697585d48fcb/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 702,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 702,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 11.185253143310547
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

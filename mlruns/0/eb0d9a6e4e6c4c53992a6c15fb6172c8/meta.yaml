@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellopoliti/Documents/Coding/Lectures/opencampus-MLOps-lectures/mlruns/0/eb0d9a6e4e6c4c53992a6c15fb6172c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb0d9a6e4e6c4c53992a6c15fb6172c8
+run_name: persistent-shark-504
+run_uuid: eb0d9a6e4e6c4c53992a6c15fb6172c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708070047953
+status: 1
+tags: []
+user_id: marcellopoliti
