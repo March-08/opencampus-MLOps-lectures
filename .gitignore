@@ -11,7 +11,10 @@ __pycache__/
 outputs/
 wandb/
 mlruns/
+streamlit-example/audio.mp3
+streamlit-example/video-streamlit.mp4
 build/
+
 develop-eggs/
 dist/
 downloads/
