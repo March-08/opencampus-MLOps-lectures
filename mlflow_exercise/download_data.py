@@ -52,7 +52,6 @@ def go(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Download a file and upload it as an artifact to W&B",
-        fromfile_prefix_chars="@",
     )
 
     parser.add_argument(

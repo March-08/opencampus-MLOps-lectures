@@ -4,3 +4,6 @@ mlflow run mlflow_exercise -P file_url=https://gist.githubusercontent.com/netj/8
 
 If you get errors try to run:
 conda update -n base -c defaults conda
+
+Or you can use mlflow.run() and so only lunch:
+python download_data_2.py
